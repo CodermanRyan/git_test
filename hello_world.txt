@@ -1,0 +1,1 @@
+Experimenting with adding text, saving and then staging a modified file.
